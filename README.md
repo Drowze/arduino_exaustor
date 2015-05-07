@@ -28,3 +28,8 @@ Para simular esta situação, utilizamos:
 
 ## Foto do projeto concluído:
 https://i.imgur.com/XFlNDFs.jpg
+
+---
+##### Materiais de referência:
+> http://labdegaragem.com/profiles/blogs/tutorial-como-utilizar-o-sensor-de-chuva-com-arduino
+> http://labdegaragem.com/profiles/blogs/tutorial-como-utilizar-a-mini-fotocelula-ldr
